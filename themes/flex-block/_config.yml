@@ -12,8 +12,8 @@ notice: flex-block主题部分重构，详情查看https://github.com/miiiku/fle
 
 # 作者信息
 author:
-  name: Sukoshi
-  avatar: https://s.gravatar.com/avatar/2d6b803eea37de0257620d5fabee7e64?s=200&r=g&d=retro
+  name: 月がとてもきれいです
+  avatar: image\aponia.jpg
   description: 贵在坚持
 
 toc:
@@ -87,5 +87,5 @@ social_icon:
     ins     :
     zhihu   :
     weibo   : 
-    github  : https://github.com/miiiku/
-    twitter : https://twitter.com/guanquanhong
+    github  : https://github.com/YaYiJiang
+    twitter : 
