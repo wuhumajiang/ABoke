@@ -21,3 +21,11 @@ layout : about
 
 - 邮箱 ：3247054062@qq.com
 - Github : [我在这里]()
+
+# 关于本站
+
+- 本站使用[hexo](https://hexo.io/zh-cn/)搭建
+
+- 主题使用的是[flex-block](https://github.com/miiiku/flex-block)
+
+- 非常感谢二位作者的辛勤付出
