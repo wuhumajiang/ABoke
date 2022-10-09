@@ -4,7 +4,7 @@ date: 2022-10-06 12:15:16
 layout : about
 ---
 
-![QQ图片20221004162739](https://qiansen.oss-cn-hangzhou.aliyuncs.com/QQ%E5%9B%BE%E7%89%8720221004162739.jpg)
+![加藤惠](https://qiansen.oss-cn-hangzhou.aliyuncs.com/1.png)
 
 # おれは
 
