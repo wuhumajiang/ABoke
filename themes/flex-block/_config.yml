@@ -34,7 +34,7 @@ comments:
     appKey: Rsfek8ixwLJeNQEkeyBVqsPt
     avatar: mm
     placeholder: 随便说点什么叭～
-    notify: true
+    notify: true	
     visitor: true
     pageSize: 10
   # disqus 评论
