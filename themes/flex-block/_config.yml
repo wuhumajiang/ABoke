@@ -24,7 +24,7 @@ toc:
 
 comments:
   enable: true
-  use: valine # valine || disqus
+  use: 'valine' # valine || disqus
   # valine 评论
   # docs: https://valine.js.org
   # You can get your appid and appkey from https://leancloud.cn
