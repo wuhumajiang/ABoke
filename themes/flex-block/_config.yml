@@ -35,7 +35,7 @@ comments:
     avatar: mm
     placeholder: 随便说点什么叭～
     notify: true	
-    visitor: false
+    visitor: true
     pageSize: 10
   # disqus 评论
   # docs: https://disqus.com/

@@ -1,6 +1,7 @@
 ---
 title: 友链区
 date: 2022-10-04 16:18:18
+cover: おはよう~
 ---
 
 
@@ -17,6 +18,6 @@ date: 2022-10-04 16:18:18
 
 站点地址 | https://aponia.top
 
-站点描述 | ACG
+站点描述 | 社恐宅男的极乐净土
 
 站点图标 | https://qiansen.oss-cn-hangzhou.aliyuncs.com/1 (1).png
