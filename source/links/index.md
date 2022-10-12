@@ -1,7 +1,8 @@
 ---
-title: 友链区
+title: 小伙伴
 date: 2022-10-04 16:18:18
 subtitle: おはよう~
+layout: links
 ---
 
 

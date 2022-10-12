@@ -1,7 +1,7 @@
 ---
 title: git常用命令
 date: 2022-10-10 22:02:05
-tags:
+tags: 学习
 cover: https://qiansen.oss-cn-hangzhou.aliyuncs.com/妮露.png
 ---
 

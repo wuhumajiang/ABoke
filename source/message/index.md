@@ -3,6 +3,7 @@ title: 留言区
 date: 2022-10-04 15:59:50
 subtitle: 嘤嘤嘤嘤嘤
 comments: true
+layout: messages
 ---
 
 对网站或者我个人有什么疑问的请在此留言。
@@ -10,12 +11,6 @@ comments: true
 ------
 
 本站评论系统采用valine，是一种半匿名的评论系统，如果嫌麻烦，可以直接匿名留言
-
-当然如果你不嫌麻烦，可以进入https://cn.gravatar.com/
-
-点击那个很瞩目的蓝色按钮“Create Your Own Gravatar”
-
-使用你的邮箱注册账号，上传你的头像就可以了
 
 如果是不希望遗漏的留言，请通过「关于」的联系方式联系我
 
