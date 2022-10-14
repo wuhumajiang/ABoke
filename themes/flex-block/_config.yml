@@ -1,7 +1,6 @@
 # Header
 menu:
   首页: /
-  分类: /categories
   留言: /message 
   友链: /links
   关于: /about
@@ -32,7 +31,7 @@ comments:
   valine:
     appId: MHuw3gALdvYlg26FbqEOavKe-gzGzoHsz
     appKey: Rsfek8ixwLJeNQEkeyBVqsPt
-    avatar: mm
+    avatar: https://cravatar.cn/avatar/f9c4eb7b5fc3be6faf897801f51dbb68.jpg
     placeholder: 随便说点什么叭～
     notify: true	
     visitor: true

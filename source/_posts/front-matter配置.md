@@ -2,6 +2,7 @@
 title: front-matter配置
 date: 2022-10-11 15:46:11
 tags: 博客配置
+category: 博客配置
 cover: https://qiansen.oss-cn-hangzhou.aliyuncs.com/5.png
 ---
 
