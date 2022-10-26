@@ -3,7 +3,7 @@ title: git常用命令
 date: 2022-10-10 22:02:05
 tags: 学习
 category: 学习
-cover: https://qiansen.oss-cn-hangzhou.aliyuncs.com/妮露.png
+cover: https://qiansen.oss-cn-hangzhou.aliyuncs.com/git常用命令.jpg
 ---
 
 ### git add
