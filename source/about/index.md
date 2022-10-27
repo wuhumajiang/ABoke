@@ -3,9 +3,10 @@ title: 关于
 date: 2022-10-06 12:15:16
 layout : about
 subtitle: 想知道关于我的什么
+cover: https://qiansen.oss-cn-hangzhou.aliyuncs.com/灵魂莲华刀妹.jpg
 ---
 
-![加藤惠](https://qiansen.oss-cn-hangzhou.aliyuncs.com/1.png)
+![加藤惠](https://qiansen.oss-cn-hangzhou.aliyuncs.com/关于.png)
 
 # おれは
 
