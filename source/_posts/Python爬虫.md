@@ -6,7 +6,9 @@ cover: https://qiansen.oss-cn-hangzhou.aliyuncs.com/Python爬虫.jpg
 category: 学习
 ---
 
-#### requests使用
+#### requests使用(第三方库)
+
+pip install -i https://pypi.tuna.tsinghua.edu.cn/simple requests
 
 import  requests
 
