@@ -3,26 +3,25 @@ title: 关于
 date: 2022-10-06 12:15:16
 layout : about
 subtitle: 想知道关于我的什么
-cover: https://qiansen.oss-cn-hangzhou.aliyuncs.com/灵魂莲华刀妹.jpg
+cover: https://boke-file2.oss-cn-hangzhou.aliyuncs.com/%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5%E5%A3%81%E7%BA%B8.jpg
 ---
 
-![加藤惠](https://qiansen.oss-cn-hangzhou.aliyuncs.com/关于.png)
+![天气之子]([https://qiansen.oss-cn-hangzhou.aliyuncs.com/关于.png](https://boke-file2.oss-cn-hangzhou.aliyuncs.com/%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5%E4%BF%A1%E6%81%AF.jpg))
 
-# おれは
+# 关于我
 
 ---
 
 - 一名大数据专业的本科在校生
-- 一位常年混迹在白银黄金的LOL玩家
-- 一名二次元宅男，梦想加入米哈游
-- 天天看番，社恐男生
+- 积极健身，保持健康
+- 梦想长寿，害怕重大疾病
 
 # 联系方式
 
 ---
 
-- 邮箱 ：3247054062@qq.com
-- Github : [我在这里]()
+- 邮箱 ：2467396642@qq.com
+- QQ：2467396642
 
 # 关于本站
 
