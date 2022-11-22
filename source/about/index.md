@@ -6,7 +6,7 @@ subtitle: 想知道关于我的什么
 cover: https://boke-file2.oss-cn-hangzhou.aliyuncs.com/%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5%E5%A3%81%E7%BA%B8.jpg
 ---
 
-![天气之子]([(https://boke-file2.oss-cn-hangzhou.aliyuncs.com/%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5%E4%BF%A1%E6%81%AF.jpg)])
+https://boke-file2.oss-cn-hangzhou.aliyuncs.com/%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5%E4%BF%A1%E6%81%AF.jpg
 
 # 关于我
 
