@@ -6,16 +6,16 @@ menu:
   关于: /about
 
 # 主页banner图
-banner: https://qiansen.oss-cn-hangzhou.aliyuncs.com/妮露.png
+banner: https://boke-file2.oss-cn-hangzhou.aliyuncs.com/ChMkJlbKydOIPJuLAAvn2mPaxWoAALITANMjj8AC-fy260.jpg
 
 # 站点通知信息
 notice: flex-block主题部分重构，详情查看https://github.com/miiiku/flex-block
 
 # 作者信息
 author:
-  name: 月がとてもきれいです
-  avatar: https://qiansen.oss-cn-hangzhou.aliyuncs.com/加藤惠.jpg
-  description: 你究竟是害怕剑姬，还是害怕那个满身破绽的自己
+  name: junhao
+  avatar: https://boke-file2.oss-cn-hangzhou.aliyuncs.com/6f5c46c3526bdde5.jpg
+  description: 我害怕的是满身破绽的自己
 
 toc:
   max_depth: 3 # 生成 TOC 的最大深度
@@ -88,5 +88,5 @@ social_icon:
     ins     :
     zhihu   :
     weibo   : 
-    github  : https://github.com/YaYiJiang
+    github  : https://github.com/wuhumajiang
     twitter : 
