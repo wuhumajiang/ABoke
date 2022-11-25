@@ -3,7 +3,7 @@ title: Hadoop安装
 date: 2022-10-21 20:12:04
 tags: 学习
 category: 学习
-cover: https://qiansen.oss-cn-hangzhou.aliyuncs.com/Hadoop安装.jpg
+cover: https://boke-file2.oss-cn-hangzhou.aliyuncs.com/bx11.jpeg
 ---
 
 ### hadoop分布式集群安装

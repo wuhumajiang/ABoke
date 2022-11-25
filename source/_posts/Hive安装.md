@@ -3,7 +3,7 @@ title: Hive安装
 date: 2022-10-21 20:13:13
 tags: 学习
 category: 学习
-cover: https://qiansen.oss-cn-hangzhou.aliyuncs.com/Hive安装.jpg
+cover: https://boke-file2.oss-cn-hangzhou.aliyuncs.com/bx6.jpeg
 ---
 
 ### hive安装流程

@@ -1,7 +1,7 @@
 ---
 title: MySQL数据库
 date: 2022-10-13 18:09:49
-cover: https://qiansen.oss-cn-hangzhou.aliyuncs.com/MySQL数据库.png
+cover: https://boke-file2.oss-cn-hangzhou.aliyuncs.com/bx10.jpeg
 tags: 学习
 category: 学习
 ---
