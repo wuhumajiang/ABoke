@@ -1,7 +1,7 @@
 ---
 title: crush
 date: 2022-11-25 18:25:49
-tags: 收藏
+tags: 学习
 cover: https://boke-file2.oss-cn-
 hangzhou.aliyuncs.com/%E6%A0%87%E7%AD%BE%E5%9B%BE%E7%89%871.jpg
 ---
