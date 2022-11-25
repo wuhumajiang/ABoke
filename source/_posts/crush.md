@@ -1,7 +1,7 @@
 ---
-title: 图片
-date: 2022-11-23 13:32:08
-tags: Crush
+title: crush
+date: 2022-11-25 18:25:49
+tags: 收藏
 cover: https://boke-file2.oss-cn-
 hangzhou.aliyuncs.com/%E6%A0%87%E7%AD%BE%E5%9B%BE%E7%89%871.jpg
 ---
@@ -19,4 +19,3 @@ hangzhou.aliyuncs.com/%E6%A0%87%E7%AD%BE%E5%9B%BE%E7%89%871.jpg
 ![bx4](https://boke-file2.oss-cn-hangzhou.aliyuncs.com/bx4.jpeg)
 
 ![bx9](https://boke-file2.oss-cn-hangzhou.aliyuncs.com/bx9.jpg)
-
