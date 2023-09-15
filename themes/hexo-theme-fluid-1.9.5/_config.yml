@@ -528,7 +528,7 @@ index:
 # Post Page
 #---------------------------
 post:
-  banner_img: /img/default.png
+  banner_img: https://boke-file2.oss-cn-hangzhou.aliyuncs.com/ChMkJlbKydOIPJuLAAvn2mPaxWoAALITANMjj8AC-fy260.jpg ##/img/default.png
   banner_img_height: 70
   banner_mask_alpha: 0.3
 
